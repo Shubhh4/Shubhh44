@@ -1,32 +1,125 @@
 ### Hey 👋🏽, I'm [Shubham!](https://Shubhh4.me) 
 
-Hi, I'm Shubham, a Full stack Developer, Blockchain Enthusiast, and Open Source Developer🚀 from India.
+Hi, I'm Shubham, a Full Stack Developer • AI Engineer • LLM & Agentic AI Enthusiast • Blockchain Explorer and Open Source Developer🚀 from India.
 
-
-- Full stack Development - Blockchain - DevOps
-  
+Software - AI - Innovations  
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham4p) [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sk192196@gmail.com)](mailto:sk192196@gmail.com)
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sk192196) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shubhh4_) 
  
 
-### Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+# 💻 Tech Stack
 
+## 🚀 AI & Machine Learning
 
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubhh4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhh4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhh4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
 
+<img src="https://skillicons.dev/icons?i=python" />
 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MCP-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector_DB-6E40C9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+</p>
+
+---
+
+## ⚡ .NET Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet" />
+
+<img src="https://skillicons.dev/icons?i=cs" />
+
+<img src="https://skillicons.dev/icons?i=visualstudio" />
+
+<img src="https://skillicons.dev/icons?i=azure" />
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net"/>
+
+<img src="https://img.shields.io/badge/Web_API-008080?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,js,ts,bootstrap,tailwind"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+
+</p>
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,powershell"/>
+
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhh4&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhh4&theme=tokyonight"/>
+
+</p>
 ### GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shubhh4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 📈 Most Used Languages
 
-### Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhh4&layout=compact&theme=tokyonight"/>
+
+
+
+##  Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+
 
 <!--** Latest Tweet: **-->
 <!--[![](https://gtce.itsvg.in/api?username=Shubhh4_)](https://github.com/Shubhh4/github-twitter-card-embed)-->
