@@ -1,8 +1,7 @@
 ### Hey 👋🏽, I'm [Shubham!](https://Shubhh4.me) 
 
-Hi, I'm Shubham, a Full Stack Developer • AI Engineer • LLM & Agentic AI Enthusiast • Blockchain Explorer and Open Source Developer🚀 from India.
+Hi, I'm Shubham, a Full Stack Developer • AI Engineer • LLM & Agentic AI Enthusiast • Blockchain Explorer & Open Source Developer🚀 from India.
 
-Software - AI - Innovations  
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham4p) [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sk192196@gmail.com)](mailto:sk192196@gmail.com)
