@@ -65,16 +65,6 @@ Software - AI - Innovations
 
 ---
 
-## 🌐 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,js,ts,bootstrap,tailwind"/>
-
-</p>
-
----
-
 ## 🗄 Database
 
 <p>
@@ -97,27 +87,18 @@ Software - AI - Innovations
 
 </p>
 
-## 📊 GitHub Stats
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shubhh4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhh4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhh4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhh4&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhh4&theme=tokyonight"/>
-
-</p>
 ### GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Shubhh4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📈 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhh4&layout=compact&theme=tokyonight"/>
-
-
-
-##  Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+### Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
